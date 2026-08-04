@@ -1,3 +1,5 @@
-﻿env
-vir
-__pycache__
+env/
+__pycache__/
+*.pdf
+*.docx
+.DS_Store
